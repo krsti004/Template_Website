@@ -2,11 +2,12 @@ body {
   font-family: "Georgia", serif;
 }
 
-h2 {
-  color: #7A0019;
+h1 {
+  background-color: #8B008B;
 }
 
-#contact {
-  background-color: #FFDE7A;
+p {
+  background-color: #DDA0DD;
+  color: #F8F8FF
   padding: 2%;
 }
