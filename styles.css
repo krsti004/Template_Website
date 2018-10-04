@@ -17,9 +17,9 @@ body {
   font-family: sans-serif
 }
 header {
-  color: orange;
+  color: white;
   padding: 1em;
-  background: white;
+  background: darkorange;
   text-align: center;
 }
 header h1 {
