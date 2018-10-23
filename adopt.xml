@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <!DOCTYPE adoptable_pets [
-<!ENTITY dog>
-<!ENTITY age (#PCDATA)>
-<!ENTITY gender (#PCDATA)>
-<!ENTITY breed (PCDATA)>
-<!ENTITY size (#PCDATA)>
-<!ENTITY color (#PCDATA)>
-<!ENTITY cat>
-<!ENTITY age (#PCDATA)>
-<!ENTITY gender (#PCDATA)>
-<!ENTITY breed (PCDATA)>
-<!ENTITY size (#PCDATA)>
-<!ENTITY color (#PCDATA)>
+<!ELEMENT dog>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT breed (PCDATA)>
+<!ELEMENT size (#PCDATA)>
+<!ELEMENT color (#PCDATA)>
+<!ELEMENT cat>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT breed (PCDATA)>
+<!ELEMENT size (#PCDATA)>
+<!ELEMENT color (#PCDATA)>
 ]>
 
 <adoptable_pets>
