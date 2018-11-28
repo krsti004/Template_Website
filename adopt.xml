@@ -1,12 +1,12 @@
 <?xml version="1.0"?>
 <!DOCTYPE adoptable_pets [
-<!ELEMENT dog>
+<!ELEMENT dog (#PCDATA)>
 <!ELEMENT age (#PCDATA)>
 <!ELEMENT gender (#PCDATA)>
 <!ELEMENT breed (PCDATA)>
 <!ELEMENT size (#PCDATA)>
 <!ELEMENT color (#PCDATA)>
-<!ELEMENT cat>
+<!ELEMENT cat (#PCDATA)>
 <!ELEMENT age (#PCDATA)>
 <!ELEMENT gender (#PCDATA)>
 <!ELEMENT breed (PCDATA)>
@@ -25,7 +25,7 @@
 
   <dog name="Spot">
     <age>Adult</age>
-    <gender>Male</male>
+    <gender>Male</gender>
     <breed>Chihuahua Mix</breed>
     <size>Small</size>
     <color>Tricolor (Brown, Black and White)</color>
